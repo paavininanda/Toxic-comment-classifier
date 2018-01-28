@@ -1,6 +1,6 @@
 # Toxic-comment-classifier
 
-# Requirements
+Requirements
 - python 3.6
 - pandas
 - stop-words
