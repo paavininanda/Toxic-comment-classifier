@@ -14,6 +14,7 @@
 - nltk
 
 ### The dataset for training/testing cab be obtained from kaggle at :
-[https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge]
+
+[DataSet](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 ### Using nltk also involved downloading nltk('wordnet') using the command :
 nltk.download('wordnet')
