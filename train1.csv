@@ -1,21 +1,4 @@
-appname,"updated
-","file_size
-","download
-","version
-",compatibility,"price
-","rating_value
-","star_total
-","editors_choice
-","offered_by
-","description
-","Language Learning
-",Computer Engineering,"General Learnng
-","Exam Preparation
-","Maths
-","Art
-","other engineering
-",Educational Gaming,"misc
-"
+appname,updated,file_size,download,version,compatibility,price,rating_value,star_total,editors_choice,offered_by,description,Language Learning,Computer Engineering,General Learning,Exam Preparation,Maths,Art,other engineering,Educational Gaming,misc
 Duolingo,2/12/2018,8.9M,"100000000-500,000,000 ",varies with device,varies with device,install,4.7,5608004,yes,Duolingo,"Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh and English.
 Totally fun and free. New! Swahili and Romanian.
 Practice your speaking, reading, listening and writing skills while playing a game! You'll improve your vocabulary and grammar skills by answering questions and completing lessons. Start with basic verbs, phrases, and sentences, and learn new words daily.
@@ -250,7 +233,7 @@ FEATURS
 · FAMILY AND FRIENDS – Playing with family and friends can be even more fun! gather more brain power, and have fun solving incredible and addictive word puzzles!
 · 2000+ LEVELS – There are more than 2000 levels, and each is getting more challenging!
 · ANYTIME ANYWHERE – There’s no time limit for each level; you can play anytime, anywhere, and progress will be saved automatically.
-Download for FREE now and become the WORD MASTER!",1,0,0,0,,0,0,1,0
+Download for FREE now and become the WORD MASTER!",1,0,0,0,0,0,0,1,0
 Shinchan Coloring Book,10/26/2017,8.9M,"100,000 - 500,000 ",1,3,install,"
 4.8","
 398",no,Coloring Games D,"
@@ -1263,7 +1246,7 @@ This is the notice for updated version of 'Hello' Series and 'Water Color Pencil
 
 If you have device with Android JellyBean or previous version, when you save image to exteral storage, image files will be saved to exteral storage folder with App Name and immediately you can show that image on Gallery. (This is the conventional rule of older version of Hello Series and WCP app.)
 
-If you have device with Android KITKAT, when you save image to exteral storage, image files copied on Camera Folder of your external storage. Surely, you can see your image on Gallery. If you got the toast message 'Cannot Save To Camera Folder' when save image, please execute basic 'Camera' app of device and make one or more photo. After that, you can save image to camera folder successfully.",Art,,,,,,,,
+If you have device with Android KITKAT, when you save image to exteral storage, image files copied on Camera Folder of your external storage. Surely, you can see your image on Gallery. If you got the toast message 'Cannot Save To Camera Folder' when save image, please execute basic 'Camera' app of device and make one or more photo. After that, you can save image to camera folder successfully.",0,0,0,0,0,1,0,0,0
 Maths Theory,11/5/2017,3.4M,"100,000 - 500,000",3.0.1,4.1,install,4.5,703,no,Sangakoo,"Sangaku Maths App is an open educational resource that offers the whole theory of mathematics from Secondary to first courses of technical degrees. An own theory, created by an interdisciplinary team, which stands for very didactic explanations and examples.
 
 Over 1000 printed pages of math theory. The contents are organized in 9 essential branches of mathematics: algebra, geometry, recreational mathematics, calculation and analysis, applied mathematics, probability and statistics, fundamentals, discrete mathematics and number theory. Each is divided into subjects, categorized by difficulty, to help you in your learning process.
@@ -1342,7 +1325,7 @@ How to play our color games for toddlers for free:
 - Colors play - set all in rockets. Under the plane door of educational games for kindergarteners
 is a rocket station. There are 3 differently colored spaceships waiting to be filled with passengers and launched in the colours games for kids. The task of these color games for kids free is to match colors flashcards and rockets.
 - Painting and coloring games. Under the space door is a coloring game with 10 pictures behind illuminators. Choose an illuminator, touch the palette and start to draw your masterpiece. The palette offers red, blue, pink, purple, orange, yellow, brown, gray, green and white paints. These mini games are similar to such baby learning apps like drawing games for kids with coloring books.
-There are often troubles identifying and naming colors for toddlers. These learning games for toddlers allows to teach your preschooler colors and also to correlate them with different objects. If you are looking for drawing games for kids and educational games for kindergarten then download our games for kids. Games like matching colors will be very useful as preschool activities!",0,0,0,0,0,1,,,
+There are often troubles identifying and naming colors for toddlers. These learning games for toddlers allows to teach your preschooler colors and also to correlate them with different objects. If you are looking for drawing games for kids and educational games for kindergarten then download our games for kids. Games like matching colors will be very useful as preschool activities!",0,0,0,0,0,1,0,0,0
 "Dcoder, Mobile Compiler IDE",1/13/2018,3.8M,"500,000 - 1,000,000 ",1.6.11 ,4.0.3,install,4.5,"7,590",no,Paprbit Technologies,"Dcoder is a mobile coding IDE ( Compiler for mobile ), where one can code and learn algorithms. Tailored to enhance your coding skills, via the use of code compilation and algorithm solving. Now learn to code anytime anywhere.
 
 
@@ -2191,7 +2174,7 @@ no internet permissions required!
 more than 10'000'000 know and use it!
 
 Learn
- to draw with How to Draw! Like a personal art teacher, it will teach 
+ to draw with How to Draw! Like a personal art teacher, it will teach
 you how to draw dozens of different objects and create amazing pictures.
 
 • EASY: you don't need any special skills, just start drawing
@@ -2231,13 +2214,13 @@ Modify computer appearance in (windows)
 Create many types computer virus (destructive virus or files stealer virus, etc)
 Modify games
 how to plays with the codings of reg,bat,vbs,jar,html,php etc
-Android tricks 
+Android tricks
 Scripting tutorial
 Networking tutorial
-Pc tricks 
+Pc tricks
 Kali Linux tutorial
 Commands tutorial
-Registry Hacks 
+Registry Hacks
 Operating system
 Software information
 Hackers info
@@ -2253,9 +2236,9 @@ Hackers info
 ►Both online and offline tutorials are available in app",0,1,0,0,0,0,0,0,0
 "vocabulorycom
 ",02-05-2014,3.5M,"50,000 - 100,000  ",1.0.3  ,4.1,Buy-Rs.181.67,4.6,"7,903",yes,Vocabularycom,"With its uniquely effective word learning system, the Vocabulary.com app
- helps you master words through a fun and addictive game. And it’s 
-powered by the world's smartest, fastest dictionary. From the makers of 
-the award-winning Vocabulary.com website, this app will expand your 
+ helps you master words through a fun and addictive game. And it’s
+powered by the world's smartest, fastest dictionary. From the makers of
+the award-winning Vocabulary.com website, this app will expand your
 vocabulary with lightning speed!
 
 “A positively addictive app for aspiring wordsmiths.” —Fast Company
@@ -2263,15 +2246,15 @@ vocabulary with lightning speed!
 “An addictive word-learning app... an approachable dictionary and quiz machine.” —TIME
 IT’S A SCIENCE...
 Vocabulary.com
- is a comprehensive program for lifelong learning of vocabulary, in 
+ is a comprehensive program for lifelong learning of vocabulary, in
 which each activity is specially chosen for you.
 
 • We use sophisticated algorithms to help you learn more effectively.
 • We start with 120,000 questions that teach 12,000 words.
 • We use the science of learning to model how you learn (and retain) new words.
 •
- By comparing your answers to the hundreds of millions of answers given 
-by other Vocabulary.com users, we personalize your learning experience 
+ By comparing your answers to the hundreds of millions of answers given
+by other Vocabulary.com users, we personalize your learning experience
 and choose the best question for you at just the right time.
 
 ...AND IT’S A GAME
@@ -2282,8 +2265,8 @@ We’ve turned learning vocabulary into an addictive game. You may not even noti
 
 YOU CHOOSE...
 Studying
- for an exam like the SAT, GRE, or TOEFL? We have learnable lists for 
-you, covering everything from standardized tests to breaking news — you 
+ for an exam like the SAT, GRE, or TOEFL? We have learnable lists for
+you, covering everything from standardized tests to breaking news — you
 name it.
 
 • Choose from one of our 50,000 ready-to-learn lists.
@@ -2298,18 +2281,18 @@ Don't have a specific word or list in mind? Let our adaptive learning system fin
 YOU IMPROVE
 Like
  a good coach, Vocabulary.com won’t give up on you. Whether you pick the
- words or let us find them for you, we’ll work with you until you've 
+ words or let us find them for you, we’ll work with you until you've
 mastered them.
 
-And even after you've achieved mastery, we'll 
-continue to reinforce what you have learned to make sure that it all 
-stays fresh in your memory. Next thing you know, you’ll be expanding 
-your vocabulary and improving your communication, a key to success in 
+And even after you've achieved mastery, we'll
+continue to reinforce what you have learned to make sure that it all
+stays fresh in your memory. Next thing you know, you’ll be expanding
+your vocabulary and improving your communication, a key to success in
 school and business.",1,0,0,0,0,0,0,0,0
 Tom the Tow Truck: Drive in Car City - Mini Mango,28/11/2017,35M,"10,000 - 50,000  ",1.74,4.0.3,Buy-Rs.110.00,4.3,137,"no
 ",Mini Mango,"Go for a drive in Car City with Tom the Tow Truck and come to the rescue of all his vehicle friends!
 Drive
- along the roads of Car City and have fun in Tom’s garage. Wherever you 
+ along the roads of Car City and have fun in Tom’s garage. Wherever you
 go, you will find great mini games and many vehicles to play with!
 Take great care of Car City and all its vehicles!
 - Head to the car wash and start cleaning muddy vehicles
@@ -2320,8 +2303,8 @@ Take great care of Car City and all its vehicles!
 - Drive along the road and come to the rescue of a broken friend
 - You can even make ice cream!
 Play
- and have fun with your favorite vehicles from Car City: Amber the 
-Ambulance, Mat the Police Car, Franck the Firetruck, Ethan the Dump 
+ and have fun with your favorite vehicles from Car City: Amber the
+Ambulance, Mat the Police Car, Franck the Firetruck, Ethan the Dump
 Truck, Gary the Garbage Truck, Suzy the Little Pink Car, Ben the Tractor
  and more!
 
@@ -2333,7 +2316,7 @@ Enjoy our different features:
 - Made for kids from 2 to 5 years old
 - No in-app purchases or third-party advertising, so you and your kids are free to discover without interruptions!
 ",0,0,0,0,0,0,0,1,0
-LinkedIn Learning: Online Courses to Learn Skills,15-02-2018,16M,"1,000,000 - 5,000,000  ",0.19.77  ,4.1,install,4.6,"5,892",yes,LinkedIn,"Advance your career with LinkedIn Learning. Discover the most in-demand 
+LinkedIn Learning: Online Courses to Learn Skills,15-02-2018,16M,"1,000,000 - 5,000,000  ",0.19.77  ,4.1,install,4.6,"5,892",yes,LinkedIn,"Advance your career with LinkedIn Learning. Discover the most in-demand
 business, tech and creative skills with personalized recommendations and
  courses taught by industry experts.
 
@@ -2342,11 +2325,11 @@ Learn on the go with the LinkedIn Learning Android app.
 Get the skills you need to succeed by watching bite-sized video courses anytime, anywhere.
 
 Whether
- you want to learn leadership skills, build a mobile app, or how to use 
-software, LinkedIn Learning has something for you.  Take marketing 
+ you want to learn leadership skills, build a mobile app, or how to use
+software, LinkedIn Learning has something for you.  Take marketing
 classes, get management training, learn graphic design, take photography
- courses, watch web and interactive design tutorials, and much more.  
-Watch expert-taught courses in leadership, programming, IT, 3D 
+ courses, watch web and interactive design tutorials, and much more.
+Watch expert-taught courses in leadership, programming, IT, 3D
 animation, and much more.
 
 Sharpen your skills and get the most out of your LinkedIn Learning membership with the app:
@@ -2366,7 +2349,7 @@ Popular course topics and skills include:
 - Get communication tips and and time management training
 - Develop leadership skills and get training on strategic planning
 -
- Watch a variety of marketing tutorials like content marketing, digital 
+ Watch a variety of marketing tutorials like content marketing, digital
 marketing, SEO, and marketing tools like Google Analytics
 - Brush up on Excel skills, QuickBooks, and other tools
 - Learn coding languages like SQL, Java, C#, Python, and more
@@ -2381,36 +2364,36 @@ marketing, SEO, and marketing tools like Google Analytics
 - Get 3D modeling and animation skills",0,1,1,0,0,0,0,0,0
  Calculator N+ (Open source) - Math Solver ,13-10-2017,6.3M,"100,000 - 500,000  ",3.9.5  ,4.0.3,install,4.8,"7,586","no
 ",Mr Duy,"The Calculator provides the following features:
- ALGEBRA 
-1. Computer science 
-2. Solving the equation: 
+ ALGEBRA
+1. Computer science
+2. Solving the equation:
 3. Solve system equations
-4. Graphing 
+4. Graphing
 5. Cartesian geometry sand(Viet Nam Education)
 6. Unit Conversions
-8. Simplify expressions 
-9. Polynomial factorization. 
-10. Binomial expansion Newton 
+8. Simplify expressions
+9. Polynomial factorization.
+10. Binomial expansion Newton
 11. Matrix: evalute matrix step by step
 
- ANALYTICS 
-1. Derivative 
-2. Antiderivative 
-3. Definite integrals 
-4. Find the limit of the sequence, function 
+ ANALYTICS
+1. Derivative
+2. Antiderivative
+3. Definite integrals
+4. Find the limit of the sequence, function
 
 TRIGONOMETRIC
 1, Trigonometric expand: sin(2x) -> 2sin(x)cos(x)
 2. Trigonometric reduce: 2sin(x)cos(x) -> sin(2x)
 3. Trigonometric to exponent: sinh(x) -> (e^x-e^(-x))/2
 
-DETERMINATION OF STATISTICS 
-1. Combination 
-2. Permutation 
+DETERMINATION OF STATISTICS
+1. Combination
+2. Permutation
 
-SOME OTHER FEATURES 
-1. Prime factors 
-2. Modulo 
+SOME OTHER FEATURES
+1. Prime factors
+2. Modulo
 3. Catalan number
 4. Fibonacci number
 
@@ -2422,38 +2405,38 @@ The computer can work in two modes:
 -         Mode fractions: for results with arbitrary precision, for example 9^99999
 ",0,0,0,0,1,0,0,0,0
 Fun School Race Games for Families,02-02-2018,66M,"  100,000 - 500,000  ",varies with device,      4.2 and up    ,install,4.3,537,no,Tiny Lab Games,"Welcome to the Fun School Town - the best learning app for families with
- schoolboys or schoolgirls of all ages that combines entertaining 
-educational tasks and fun kid racing game! Meet class teacher Mia who 
-have so many things to do at school and her certainly need some of your 
-help in this entertaining school racing game. This educational game 
-combines both: learning while completing different tasks given by 
+ schoolboys or schoolgirls of all ages that combines entertaining
+educational tasks and fun kid racing game! Meet class teacher Mia who
+have so many things to do at school and her certainly need some of your
+help in this entertaining school racing game. This educational game
+combines both: learning while completing different tasks given by
 teacher and kids favorite game type - racing while riding their favorite
- school vehicle: School Bus, Eraser Car, Pencil Car and Ruler Car. 
+ school vehicle: School Bus, Eraser Car, Pencil Car and Ruler Car.
 
 
 Pick
- up your favorite car and drive in 12 educational lessons, this is a 
-family game - so if you have some preschool kids - invite them to watch 
-how you play or play together! During the lesson (which is actually 
+ up your favorite car and drive in 12 educational lessons, this is a
+family game - so if you have some preschool kids - invite them to watch
+how you play or play together! During the lesson (which is actually
 race) you will have to complete different teacher lessons tasks:
 Learn first numbers (1,2,3) and count them.
-Collect various school subjects tools as ruler, paper sheet, scissors, book, pencil and learn about each of them. 
+Collect various school subjects tools as ruler, paper sheet, scissors, book, pencil and learn about each of them.
 Learn about such school subjects as math, art, chemistry and more!
 Learn about discipline at school (stop kids from skipping classes, avoid their pranks).
 
 
 EDUCATIONAL VALUE
 By
- completing teacher lessons tasks you will develop his knowledge (learn 
-about various school subjects, tools, numbers as 1,2,3 and more), 
+ completing teacher lessons tasks you will develop his knowledge (learn
+about various school subjects, tools, numbers as 1,2,3 and more),
 ability to concentrate and memory capacity;
-Learn about school discipline (better understanding of good and bad behavior at school); 
+Learn about school discipline (better understanding of good and bad behavior at school);
 Improve problem solving, quick decision making, self- learning and flexible thinking skills.
 While racing in different game lessons your child will develop hand-eye coordination and self-control.
 
 
 Get
- this educational racing game for yourself, enjoy fun racing experience 
+ this educational racing game for yourself, enjoy fun racing experience
 plus get some additional learning bonus for your preschool children.
 
 
@@ -2461,7 +2444,7 @@ FREE AND FUN
 Play even 12 fun and entertaining teacher lessons!
 Designed
  for families - no confusing menus or controls: click GO button to drive
- forward and arrows to balance school racing cars or school bus. 
+ forward and arrows to balance school racing cars or school bus.
 Hours of entertaining learning, physics-based fun and surprising gameplay.
 
 
@@ -2476,28 +2459,28 @@ VARIOUS RACING CARS
 Drive in style with 4 free school cars: School Bus, Eraser, Pencil, Ruler.
 Do funny stunts, cool flips, high jumps and drive your racing car as fast as you can through this entertaining Fun School Town!
 Drive, win coins and unlock new racing cars and motorcycles! ",0,0,0,0,0,0,0,1,0
-TurboCdroid ,11-07-2017,5.8M,"  100,000 - 500,000  ",2,      4.0.3,install,4.2,"2,149",no,Yogendar Singh,"TurboCdroid is specially designed for School/college students to run 
-Turbo C++ on android platform. There are many other compilers available 
+TurboCdroid ,11-07-2017,5.8M,"  100,000 - 500,000  ",2,      4.0.3,install,4.2,"2,149",no,Yogendar Singh,"TurboCdroid is specially designed for School/college students to run
+Turbo C++ on android platform. There are many other compilers available
 for C language , but most of the student use TC due to their curriculum.
- Most students and programmers are disappointed to know that Turbo C or 
-C++ does not supports android. So here is solution for that, with the 
+ Most students and programmers are disappointed to know that Turbo C or
+C++ does not supports android. So here is solution for that, with the
 help of TurboCdroid we can easily compile and run c++ programs on Turbo C
- compiler. TurboCdroid is design in a way that we don't need to 
-configure anything. No need to type complicated mounting command every 
+ compiler. TurboCdroid is design in a way that we don't need to
+configure anything. No need to type complicated mounting command every
 time to just booting up the turbo C. It's a one click installer .",0,1,0,0,0,0,0,0,0
- Mental Math Practice ,25/11/2017,,"  100,000 - 500,000  ",varies with device,varies with device,install,4.5,506,no,Magoosh,"Master mental math with our highly rated free flashcards. We make math 
-practice easy whether you are preparing for a standardized test or just 
-training for fun. 
+ Mental Math Practice ,25/11/2017,,"  100,000 - 500,000  ",varies with device,varies with device,install,4.5,506,no,Magoosh,"Master mental math with our highly rated free flashcards. We make math
+practice easy whether you are preparing for a standardized test or just
+training for fun.
 200 mental math flashcards crafted by an expert math tutor
- Explanations of shortcuts for every arithmetic calculations including 
+ Explanations of shortcuts for every arithmetic calculations including
 addition, subtraction, multiplication, division, and more
 Decks for different types of math practice
 Track your progress as you study
 Smart algorithm focuses your math practice for efficient learning
 
 This
- app gives you free access to Magoosh’s mental math practice online at 
-https://gre.magoosh.com/flashcards/mental-math. Sign in with a Magoosh 
+ app gives you free access to Magoosh’s mental math practice online at
+https://gre.magoosh.com/flashcards/mental-math. Sign in with a Magoosh
 account (or create a new one) to save your progress to the web.
 
 Comprehensive Math Practice
@@ -2517,26 +2500,26 @@ Review that really sticks
 
 Academic
  research has found that memories are formed by repeated exposure to new
- information, so Magoosh’s flashcard app uses a spaced repetition 
-system. Analogies you are learning will reappear frequently (occurring 
+ information, so Magoosh’s flashcard app uses a spaced repetition
+system. Analogies you are learning will reappear frequently (occurring
 less frequently the better you know them) and analogies you already know
  won’t be repeated.
 
 About Magoosh
 
-We're an online 
-test prep company with a great portfolio of standardized tests-- GRE, 
-GMAT, SAT, ACT, LSAT, etc. We’ve helped millions of students improve 
-their scores through effective tutorials, authentic question bank, and 
-first-class customer support. 
+We're an online
+test prep company with a great portfolio of standardized tests-- GRE,
+GMAT, SAT, ACT, LSAT, etc. We’ve helped millions of students improve
+their scores through effective tutorials, authentic question bank, and
+first-class customer support.
 ",0,0,0,0,1,0,0,0,0
-Masha and the Bear,15/12/2017,,"  5,000,000 - 10,000,000  ",1.8,      4.0.3 ,install,4.5,"22,074",no,AppQuiz,"Discover the fantastic world of Masha and the bear through these 30 
-educational games. You will love it! The educational games of Masha and 
+Masha and the Bear,15/12/2017,,"  5,000,000 - 10,000,000  ",1.8,      4.0.3 ,install,4.5,"22,074",no,AppQuiz,"Discover the fantastic world of Masha and the bear through these 30
+educational games. You will love it! The educational games of Masha and
 the bear are aimed at children up to 6 years old.
 
-This game is 
-based on the characters of the popular serie that deals with the 
-adventures of Masha, a girl who is cared for by a bear and her friends, 
+This game is
+based on the characters of the popular serie that deals with the
+adventures of Masha, a girl who is cared for by a bear and her friends,
 animals like the tiger, wolf, penguin, squirrel, hare...
 
 Masha and the Bear Educational Games is composed of 6 different categories of games for children to have fun:
@@ -2549,31 +2532,31 @@ Masha and the Bear Educational Games is composed of 6 different categories of ga
 - Simple numbers and operations: learn the numbers from 1 to 10.
 
 A
- series of games featuring the characters of the children's favorite TV 
-series with which they will learn while having fun playing alone, with 
+ series of games featuring the characters of the children's favorite TV
+series with which they will learn while having fun playing alone, with
 friends or with parents.
 
-Your kids will love playing with the 
+Your kids will love playing with the
 educational games of Masha and the bear with which they will enjoy hours
  of entertainment and assured fun.
 
-The ""Masha and the Bear"" 
-series has become a family hit worldwide because it is a smart and fun 
-entertainment designed to educate both children and parents. Masha and 
-The Bear educates children about true friendship in a fun and 
+The ""Masha and the Bear""
+series has become a family hit worldwide because it is a smart and fun
+entertainment designed to educate both children and parents. Masha and
+The Bear educates children about true friendship in a fun and
 intelligent way.
 
 ",0,0,0,0,0,0,0,1,0
- DataCamp ,29-12-2017,,"  100,000 - 500,000  ", 1.0.4  ,4.1,install,4.5,514,no,DataCamp,"Learn Data Science on the go! DataCamp Mobile offers bite-sized lessons 
-you can complete in 5 minutes or less. Expand your data science 
-knowledge with new courses by the best instructors, or sharpen your 
-skills in Practice Mode with instant personalized feedback. Learn Data 
+ DataCamp ,29-12-2017,,"  100,000 - 500,000  ", 1.0.4  ,4.1,install,4.5,514,no,DataCamp,"Learn Data Science on the go! DataCamp Mobile offers bite-sized lessons
+you can complete in 5 minutes or less. Expand your data science
+knowledge with new courses by the best instructors, or sharpen your
+skills in Practice Mode with instant personalized feedback. Learn Data
 Science by doing, even on the go!
 
 Currently, three courses are available (for free!):
 -
- Intro to Python explains the fundamentals of data science using the 
-Python programming language and the Numpy package for scientific 
+ Intro to Python explains the fundamentals of data science using the
+Python programming language and the Numpy package for scientific
 computing.
 - Intro to R lets you master the basics of data analysis by introducing vectors, matrices and data frames.
 - Intro to SQL makes you comfortable with the world of relational databases.
@@ -2597,18 +2580,18 @@ Use for kids and aged. The slightest delay the aging of the brain.
 11. Word memory
 12. Mind games
 More
- games are coming soon. free brain games and brain games for adults, 
-brain games for kids, brain games for older. This game support for all 
-averybody. We are train yyour brain, games for brain with many memory 
+ games are coming soon. free brain games and brain games for adults,
+brain games for kids, brain games for older. This game support for all
+averybody. We are train yyour brain, games for brain with many memory
 exercises. Daily practice with alert on notification",0,0,0,0,0,0,0,1,0
-Word of the day — Daily English dictionary app,1/11/2017,,"100,000 - 500,000  ",2.3,4.0.3,install,4.4,318,no,wordwordappcom,"Become the smartest among your friends now… Learn one new word every day. As simple as that… 
+Word of the day — Daily English dictionary app,1/11/2017,,"100,000 - 500,000  ",2.3,4.0.3,install,4.4,318,no,wordwordappcom,"Become the smartest among your friends now… Learn one new word every day. As simple as that…
 
 There’re
- thousands of words we don’t know the meaning. Professional English 
+ thousands of words we don’t know the meaning. Professional English
 language tutors and lecturers gathered to hand-pick the most interesting
- words for you to develop your vocabulary. 
+ words for you to develop your vocabulary.
 
-- Become smarter by knowing the words that only nerds use. 
+- Become smarter by knowing the words that only nerds use.
 - Act as intellectual being able to use them correctly in right situation.
 - Become sexier by impressing other people with your speech.
 - Show how eloquent you are by challenging your friends to guess the meaning or simply share the words with the world.
@@ -2619,23 +2602,23 @@ Advance Language,31-10-2017,,"50,000 - 100,000  ",3.1.0  ,4,install,3.6,429,no,R
 
 
 Our
- mobile app lets you access your learning experience whenever and 
-wherever you like. Automatic syncing means you can go from computer to 
+ mobile app lets you access your learning experience whenever and
+wherever you like. Automatic syncing means you can go from computer to
 mobile device and back again – and never lose your place in a lesson.
 
 
-You get: 
+You get:
 
-• Access to downloaded lessons anytime, anywhere. 
+• Access to downloaded lessons anytime, anywhere.
 • A tailored learning experience based on your level and goals.
 • Communication skills you can use immediately.
 • Real-time feedback on your reading and pronunciation.
 • Clear markers of progress toward your learning goals.
       ",1,0,0,0,0,0,0,0,0
-Studoob -The KTU Engineering Learning App,14-01-2018,,"5,000 - 10,000  ",1.0.12  ,4.1,install,4.4,464,no,Nikhil ps,"Studoob is a fast , easy to use and a modern engineering platform 
-developed for the APJ KTU B-tech student community. Designed for 
-Engineering students , Studoob brings out quality contents , fast 
-downloads , easy reference , quick links , summarized notes for major 
+Studoob -The KTU Engineering Learning App,14-01-2018,,"5,000 - 10,000  ",1.0.12  ,4.1,install,4.4,464,no,Nikhil ps,"Studoob is a fast , easy to use and a modern engineering platform
+developed for the APJ KTU B-tech student community. Designed for
+Engineering students , Studoob brings out quality contents , fast
+downloads , easy reference , quick links , summarized notes for major
 engineering branches( CSE , CE , ME , PE , ECE and EEE). Download now to
  enjoy the next level learning experience from Studoob.
 
@@ -2648,28 +2631,28 @@ Ads Free Learning Experience :Enjoy the advertisement free environment of studoo
 Complete APJ KTU previous year question paper : Free access to the huge collection of previous years university exam papers for quality preparation and reference.
 
 Offline Syllabus and timetable : No
- more wifi or mobile data required to check the exam time tables or the 
+ more wifi or mobile data required to check the exam time tables or the
 syllabus. Our offline feature saves everything for you.
 
 One click download : Too
- many download buttons often make us confused ,but with Studoob 
-everything is so easy. Easy navigation and inbuilt download manager 
-makes it easy to download the contents. Support background downloading 
+ many download buttons often make us confused ,but with Studoob
+everything is so easy. Easy navigation and inbuilt download manager
+makes it easy to download the contents. Support background downloading
 with Notification.
 
 Module wise File arrangement: Contents
- are arranged in a way that our users can easy navigate and locate any 
-of our contents with ease. Module wise File arrangement makes it much 
+ are arranged in a way that our users can easy navigate and locate any
+of our contents with ease. Module wise File arrangement makes it much
 more easy.
 
-Well organized file storing : File 
-organization is a key part of Studoob. An application like Studoob will 
+Well organized file storing : File
+organization is a key part of Studoob. An application like Studoob will
 surely require an well organized file storage option.
 
-Instant push notification : Get notified by one and every updates about Exam dates , Time Tables , Events in University, Results and much more. 
+Instant push notification : Get notified by one and every updates about Exam dates , Time Tables , Events in University, Results and much more.
 
 KTU notification inside app : In
- App Official notification collector. All the official notifications 
+ App Official notification collector. All the official notifications
 from the university is fetched and display in the notification section.
 
 Attractive material design : With the new stunning Material design and dazzling layout , Studoob exhibits the design of the future.
@@ -2677,7 +2660,7 @@ Attractive material design : With the new stunning Material design and dazzling 
 App inside file Downloader download : Inbuilt download manager now available with Studoob. Supports background downloading and left out download option.
 
 Long press to delete file :
- Now you can delete the old unwanted contents right from your App. 
+ Now you can delete the old unwanted contents right from your App.
 Simply press and hold the file for a few seconds and follow the onscreen
  instruction.",0,1,0,1,0,0,1,0,0
 Learn HTML,25-12-2017,,"1,000,000 - 5,000,000 ",4.5.2  ,4,install,4.6,"61,027",no,SoloLearn,"Learn HTML in a greatly improved learning environment with more lessons, real practice opportunity, and community support.
@@ -2685,8 +2668,8 @@ Learn HTML,25-12-2017,,"1,000,000 - 5,000,000 ",4.5.2  ,4,install,4.6,"61,027",n
 This FREE app will teach you how to design a web page using HTML.
 
 In
- our interactive HTML courseware, carefully selected content will be 
-followed by quizzes and checkpoints. Complete a series of hands-on 
+ our interactive HTML courseware, carefully selected content will be
+followed by quizzes and checkpoints. Complete a series of hands-on
 exercises and practice while writing real HTML code.
 
 Our content is concise, checkpoints are enjoyable, and learning is guaranteed.
@@ -2695,37 +2678,37 @@ Learn while playing and play while learning with our FREE HTML Tutorial!
 
 Whether you want to further your career or simply gain a new skill, this tutorial will be useful for you.
 It is easy to start, easy to learn - are you still waiting? Start now!
-      ",,,,,,,,,
+      ",0,1,0,0,0,0,0,0,0
 Street Art watch face ,25-12-2017,,"100,000 - 500,000  ",5.5.2  ,4,install,4.7,"3,205",no,Google LLC,"A collection of beautiful street art watch faces from Google Art Project
- featuring the work of Aitch, Andre Fernandes Trindade, Cheko, DRAW, 
+ featuring the work of Aitch, Andre Fernandes Trindade, Cheko, DRAW,
 Drawing Jesus, Erik Otto, Gemeniano Cruz, God Mess, Hugo Lucas, Katch, L
- Is Not An Artist aka Luísa Cortesão, Mariana Dias Coutinho, Mercedes 
-deBellard, Mercedes deBellard & Cheko, Nark, Nicolae Negura, Paulo 
-Arraiano, Pedro Batista, Phibs, Reach, Samina, Slap, Sublinismo & 
-Cheko, Tamara Alves & José Carvalho, The Empty Belly, Tinta Crua, 
+ Is Not An Artist aka Luísa Cortesão, Mariana Dias Coutinho, Mercedes
+deBellard, Mercedes deBellard & Cheko, Nark, Nicolae Negura, Paulo
+Arraiano, Pedro Batista, Phibs, Reach, Samina, Slap, Sublinismo &
+Cheko, Tamara Alves & José Carvalho, The Empty Belly, Tinta Crua,
 and Will Barras.",0,0,0,0,0,1,0,0,0
-Grasshopper: Learn to Code for Free,22-02-2018,,"50,000 - 100,000  ",1.9.1  ,5,install,4.4,259,no,Area 120,"Learn to code for free on your phone, in as little as 5 minutes a day. 
+Grasshopper: Learn to Code for Free,22-02-2018,,"50,000 - 100,000  ",1.9.1  ,5,install,4.4,259,no,Area 120,"Learn to code for free on your phone, in as little as 5 minutes a day.
 
 So
- here's the deal: everybody can learn to code. The problem is that 
-today's university-first approach is a bit old school, and frankly, out 
+ here's the deal: everybody can learn to code. The problem is that
+today's university-first approach is a bit old school, and frankly, out
 of touch. That's why Grasshopper offers a new kind of curriculum for the
  everyday coder. In particular, Grasshopper:
 
-* Fits in your 
-pocket, and your lifestyle. You don't need a fancy laptop or a lecture 
-hall to write code. You've already got a supercomputer in your pocket! 
-So fire up your smartphone, and start coding during that commercial 
+* Fits in your
+pocket, and your lifestyle. You don't need a fancy laptop or a lecture
+hall to write code. You've already got a supercomputer in your pocket!
+So fire up your smartphone, and start coding during that commercial
 break, or your evening commute.
 * Focuses on doing, not just reading.
- The best way to learn to code is to actually write code. That's why 
-Grasshopper goes straight to coding real stuff, not watching hours of 
-videos or learning syntax. You're writing real JavaScript from the very 
+ The best way to learn to code is to actually write code. That's why
+Grasshopper goes straight to coding real stuff, not watching hours of
+videos or learning syntax. You're writing real JavaScript from the very
 first lesson.
-* Finds the approach that fits you best. One size 
-doesn't fit all. Not when it comes to pants (even the stretchy ones), 
-and definitely not when it comes to coding. So Grasshopper lets you 
-explore different lessons, and provides just-in-time feedback to guide 
+* Finds the approach that fits you best. One size
+doesn't fit all. Not when it comes to pants (even the stretchy ones),
+and definitely not when it comes to coding. So Grasshopper lets you
+explore different lessons, and provides just-in-time feedback to guide
 you along the way.
 
 What some of our students are saying:
@@ -2733,20 +2716,19 @@ What some of our students are saying:
 ""Tasks were small and easy to do while chilling out or on a commute!"" - Jane, 21
 
 ""I
- like how Include helps you learn one step at a time. It's not 
+ like how Include helps you learn one step at a time. It's not
 overwhelming for someone who’s just starting to learn."" - Ankit, 29
 
 ""I
- enjoyed breaking it down into small building blocks, and being able to 
+ enjoyed breaking it down into small building blocks, and being able to
 get satisfaction from building something early."" - Claire
 
-*** 
+***
 THIS APP IS CURRENTLY IN BETA. Please request an invite and feel free to
- send us feedback as you're using the app to help us improve future 
-releases! ***",,,,,,,,,
+ send us feedback as you're using the app to help us improve future
+releases! ***",0,1,1,0,0,0,0,0,0
 "Learn Russian with Babbel
-",16-0 2018,,"100,000 - 500,000  ",20.2.1.7466873  ,4.4,install,4,"2,537",no,"Babbel
-","Speak Russian with confidence. Discover Babbel's wide variety of courses
+",16-0 2018,,"100,000 - 500,000  ",20.2.1.7466873  ,4.4,install,4,"2,537",no,Wetware (brain),"Speak Russian with confidence. Discover Babbel's wide variety of courses
  and start making progress quickly — get the app named one of Google Play’s Best Apps 2015!
 
 Join millions of happy users and try out the first lesson for free.
@@ -2754,7 +2736,7 @@ Join millions of happy users and try out the first lesson for free.
 DISCOVER A NEW LEARNING EXPERIENCE
 Whether for school, work or travel, Babbel makes learning Russian fun and easy for learners of all levels.
 Intuitive courses designed by linguistic experts engage you in practical conversation skills from the very first lesson.
-Just a few minutes a day strengthens your language skills. 
+Just a few minutes a day strengthens your language skills.
 
 FEATURES
 • Extensive selection of interactive courses
@@ -2780,21 +2762,21 @@ And much more!
 PLEASE NOTE
 You'll
  need a Babbel subscription in order to access courses and features. The
- number of courses offered may vary depending on which display language 
+ number of courses offered may vary depending on which display language
 you use.
- 
-Your subscription will renew automatically unless 
-cancelled before the end of the current payment period. You can manage 
+
+Your subscription will renew automatically unless
+cancelled before the end of the current payment period. You can manage
 or cancel your subscription in your Google Play Store account.
 
 --------------------
 
 Learn
- English, Spanish, French, Italian, Russian, German, Brazilian 
-Portuguese, Swedish, Turkish, Polish, Norwegian, Danish, Dutch or 
+ English, Spanish, French, Italian, Russian, German, Brazilian
+Portuguese, Swedish, Turkish, Polish, Norwegian, Danish, Dutch or
 Indonesian, and communicate with people from all over the world.
 
-Give it a try! 
+Give it a try!
 
 We're happy to have your feedback. Write with questions or comments to:
 
@@ -2814,11 +2796,11 @@ https://plus.google.com/+BabbelPlus
 FAN US:
 http://www.facebook.com/babbel.languages",1,0,0,0,0,0,0,0,0
 Memorado-Brain Games,,,,,,,,,,,"A strong brain leads to a happier life. With over 4 million global users
- across all platforms, Memorado is the leading gym for the mind - 
-providing fun, personalized workouts geared towards boosting your 
-memory, concentration and reaction skills. Choose from over 450 levels 
-in 15 games based on neuroscience which are designed to help you get 
-sharper, every day! 
+ across all platforms, Memorado is the leading gym for the mind -
+providing fun, personalized workouts geared towards boosting your
+memory, concentration and reaction skills. Choose from over 450 levels
+in 15 games based on neuroscience which are designed to help you get
+sharper, every day!
 
 KEY FEATURES
 - Challenge your friends to find out who's smartest in our all-new Brain Duel
@@ -2834,40 +2816,40 @@ TechCrunch: ""I’ll confess, I’ve recently become hooked on so-called brain t
 
 DEVELOPED BY NEUROSCIENTISTS
 Memorado
- is at the forefront of neuroscience. Our in-house team of 
-neuroscientists has created games to train memory, concentration and 
-much more. Based on the science of neuroplasticity, studies have shown 
+ is at the forefront of neuroscience. Our in-house team of
+neuroscientists has created games to train memory, concentration and
+much more. Based on the science of neuroplasticity, studies have shown
 that brain training enhances your working memory and fluid intelligence.
- You can find more information about our Global Cognition Initiative on 
+ You can find more information about our Global Cognition Initiative on
 www.memorado.com/gci
 
 BOOST YOUR BRAIN
-Whether you’re young or 
-old, Memorado is a brain gym designed to help you reach your full 
-potential. Brain games help to train your working memory, which ensures 
-quicker learning and an improvement in brain connectivity. Scientists 
-have found that strong brain connectivity is an important component of 
-human intelligence and may slow down dementia. For boosting your IQ and 
+Whether you’re young or
+old, Memorado is a brain gym designed to help you reach your full
+potential. Brain games help to train your working memory, which ensures
+quicker learning and an improvement in brain connectivity. Scientists
+have found that strong brain connectivity is an important component of
+human intelligence and may slow down dementia. For boosting your IQ and
 your all-round cognitive fitness, having Memorado as your personal brain
  trainer is the smart way to keep your mind in top shape.
-",0,0,0,0,0,0,0,1,
-Kitty Meow Meow - My Cute Cat Day Care & Fun,,,,,,,,,,TutoTOONS,"New super cute kitten games for girls and boys who love cute little 
-cats! Kitty Meow Meow welcomes all kids in her adorable cat world. Play 
-sweet kitty games all day with your new virtual pet friend - white and 
+",0,0,0,0,0,0,1,1,1
+Kitty Meow Meow - My Cute Cat Day Care & Fun,,,,,,,,,,TutoTOONS,"New super cute kitten games for girls and boys who love cute little
+cats! Kitty Meow Meow welcomes all kids in her adorable cat world. Play
+sweet kitty games all day with your new virtual pet friend - white and
 fluffy like a cotton candy kitty cat!
 
-Take care of your cute 
-pocket pet kitten and enjoy new animal care games for kids. Visit kitty 
-hair salon and make crazy and colorful hairstyles. Feed Kitty Meow Meow 
-in a fancy restaurant and party with kittens in the dance club. Play 
-kitten care games in the beauty salon and visit the mall to dress up 
-with the most beautiful kitty clothes. Build the purrfect kitty cat 
-house, always clean up kitten restroom and play the best kids games in 
+Take care of your cute
+pocket pet kitten and enjoy new animal care games for kids. Visit kitty
+hair salon and make crazy and colorful hairstyles. Feed Kitty Meow Meow
+in a fancy restaurant and party with kittens in the dance club. Play
+kitten care games in the beauty salon and visit the mall to dress up
+with the most beautiful kitty clothes. Build the purrfect kitty cat
+house, always clean up kitten restroom and play the best kids games in
 the magical kitten park!
 
 Kitty Meow Meow cat games for girls and boys who love super cute kittens:
 · NEW! Brush, cut, curl, color and style Kitty Meow Meow’s hair in the new cat hair salon!
-· NEW! Check out the restaurant menu and feed the kittens with new and tasty cat snacks! 
+· NEW! Check out the restaurant menu and feed the kittens with new and tasty cat snacks!
 · NEW! Look for suits and hats in two new shops at the kitten mall!
 · Dress up your pet kitty cat and design the cutest cat outfit!
 · Do the purrfect manicure, give a cat face spa and have a bubble bath at the beauty salon!
@@ -2879,8 +2861,8 @@ Kitty Meow Meow cat games for girls and boys who love super cute kittens:
 · Collect as many coins and pink diamonds as you can!
 · Watch videos with Kitty Meow Meow and get more coins for new game items!
 ",0,0,0,0,0,0,0,1,0
-Canvas Tutor - artist trainer,,,,,,,,,,Pimentoso,"If you're either an illustrator, comic artist, manga artist or you just 
-want to improve your drawing, take half an hour a day and let Canvas 
+Canvas Tutor - artist trainer,,,,,,,,,,Pimentoso,"If you're either an illustrator, comic artist, manga artist or you just
+want to improve your drawing, take half an hour a day and let Canvas
 Tutor guide you with its daily quest.
 
 If you regularly follow the quests, you will get better in
@@ -2897,49 +2879,49 @@ Improve your techniques using the tutorials in the extra contents section!
 Upload your photos to the gallery and share your progress with other users!
 
 PLEASE
- LOG IN TO GOOGLE PLAY SERVICES when asked to automatically save 
+ LOG IN TO GOOGLE PLAY SERVICES when asked to automatically save
 progress in the cloud, so you can recover them if something breaks or if
  you get a new phone.
-",0,0,0,0,0,1,,,
-FUNNY FOOD 2! Educational Games for Kids Toddlers!,,,,,,,,,,,"Try our educational games for kids kindergarten: fine motor skills 
-games & learning games for toddlers age 3 became so fun! Learning 
-kids games with smart baby shapes address various topics such as: 
-geometric shapes, colors, logic, sizes, etc. It also has puzzle for 
+",0,0,0,0,0,1,0,0,0
+FUNNY FOOD 2! Educational Games for Kids Toddlers!,,,,,,,,,,,"Try our educational games for kids kindergarten: fine motor skills
+games & learning games for toddlers age 3 became so fun! Learning
+kids games with smart baby shapes address various topics such as:
+geometric shapes, colors, logic, sizes, etc. It also has puzzle for
 toddlers! Keep your child busy with educational games for kids!
-Welcome to the world of 15 various children games in Funny Food 2! 
-Funny Food 2: 
+Welcome to the world of 15 various children games in Funny Food 2!
+Funny Food 2:
 • PUZZLES - sort out the jumbled funny foods (Fun free games for kids);
 • ANGLES, PARTS & WHOLES - cook and slice pizza and then feed cute characters (Logic games for kids free);
 •
- FIND & TAP - sort foods into their appropriate plastic bags 
+ FIND & TAP - sort foods into their appropriate plastic bags
 (Children’s games for 3 to 5 yrs old, that develops attention);
-• 
+•
 HIDE & SEEK - find the rascals and count them (This educational game
- learn to count from 1 to 5. Games for children free that develop 
+ learn to count from 1 to 5. Games for children free that develop
 attention);
-• SHAPES - water the magical garden, grow vegetables, 
-then harvest and count them (Fun educational game to learn geometric 
+• SHAPES - water the magical garden, grow vegetables,
+then harvest and count them (Fun educational game to learn geometric
 shapes and colors);
 • SIZES - sort food by size and load them to the helicopter (Introduces a concept of sorting by size);
 •
- LOGIC - find a pattern and arrange foods correctly in the tractor's 
-trailer (Kindergarten games free for 5 year old, that introduces to a 
+ LOGIC - find a pattern and arrange foods correctly in the tractor's
+trailer (Kindergarten games free for 5 year old, that introduces to a
 concept of consistency and continuity);
 • SORTING - sort all foods from the conveyor belt into different pickup trucks (develop attention and logical thinking);
 • MATCHING - find all the matching pairs (matching games free for kids and memory games for kids, attention and fruit learning);
 • UNITS & PARTS - slice the foods by tracing the lines and cook various dishes (Matching games for kids);
 • CREATIVITY - dress foods in fancy clothing (free learning games for children develop creativity and imagination);
 •
- LEARN SHAPES AND COLORS - prepare cookies that differ in color and 
+ LEARN SHAPES AND COLORS - prepare cookies that differ in color and
 shape (Fun child games 10 year below, that introduces to sizes);
-• 
-COUNTING from 1 to 5 - feed animals with the right amount of food (A 
-kind of math games for kids that help learn counting and think through 
+•
+COUNTING from 1 to 5 - feed animals with the right amount of food (A
+kind of math games for kids that help learn counting and think through
 math games for 3rd graders free);
 • COMPARISON - use the scale to weigh the right amount of food;
 •
- COLORS FOR TODDLERS - kindergarten games free for 5 year old: wash 
-fruits and vegetables under the shower and sort them by color (Game for 
+ COLORS FOR TODDLERS - kindergarten games free for 5 year old: wash
+fruits and vegetables under the shower and sort them by color (Game for
 fruit learning).
 FEATURES:
 • 15 baby learning games for kindergarten and above in English to learn shapes and colors;
@@ -2951,147 +2933,147 @@ FEATURES:
 • No ads family fun games!
 • No internet games free for kids
 Explore
- smart kids games: think through math games for kids, fine motor skills 
+ smart kids games: think through math games for kids, fine motor skills
 games! Totally kindergarten learning free apps for learning kids!
 About MAGE:
 These
  kindergarten learning free apps have been created by MAGE, who develops
  interactive children learning games for toddlers age 3 to 6.
-With 
-our educational games children learn the alphabet, letters, numbers and 
-phonics. Our games for girls and boys comply with the standards of 
+With
+our educational games children learn the alphabet, letters, numbers and
+phonics. Our games for girls and boys comply with the standards of
 “Designed For Family”.",0,0,0,0,0,0,0,1,0
- Engineering Drawing ,,,,,,,,,,Engineering Hub,"Engineering drawing notes,quiz,blog and videos .It almost cover all important topics which are indexed chapter wise 
+ Engineering Drawing ,,,,,,,,,,Engineering Hub,"Engineering drawing notes,quiz,blog and videos .It almost cover all important topics which are indexed chapter wise
 
 1.        Representative factor
 2.        Plain scales
-3.        Diagonal scales        
-4.        construction of ellipse        
-5.        construction of parabola        
-6.        cycloid        
-7.        epicycloid        
-8.        hypocycloid        
-9.        Involutes        
-10.        Archimedean        
+3.        Diagonal scales
+4.        construction of ellipse
+5.        construction of parabola
+6.        cycloid
+7.        epicycloid
+8.        hypocycloid
+9.        Involutes
+10.        Archimedean
 11.        logarithmic spirals
-12.        Types of projection        
-13.        Orthographic Projections        
+12.        Types of projection
+13.        Orthographic Projections
 14.        First and Third Angle Projections
-15.        Line parallel to a plane        
-16.        Line inclined to a plane        
-17.        Projection of a line parallel to both HP and VP        
-18.        Line perpendicular to HP & parallel to VP        
-19.        Line parallel to VP and inclined to HP        
-20.        Line inclined to HP and VP        
+15.        Line parallel to a plane
+16.        Line inclined to a plane
+17.        Projection of a line parallel to both HP and VP
+18.        Line perpendicular to HP & parallel to VP
+19.        Line parallel to VP and inclined to HP
+20.        Line inclined to HP and VP
 21.        Rotate the line AB to make it parallel to VP.
-22.        Projections of planes        
-23.        Plane surface parallel to one plane and perpendicular to the other two        
-24.        Plane parallel to HP and perpendicular to both VP and PP        
-25.        Plane parallel to PP and perpendicular to both HP and VP        
-26.        Plane surface perpendicular to one plane and inclined to the other two        
+22.        Projections of planes
+23.        Plane surface parallel to one plane and perpendicular to the other two
+24.        Plane parallel to HP and perpendicular to both VP and PP
+25.        Plane parallel to PP and perpendicular to both HP and VP
+26.        Plane surface perpendicular to one plane and inclined to the other two
 27.        Projection of Solids
-28.        Sections of Solids        
-29.        Visualization of Section Views        
-30.        CUTTING PLANE LINES        
-31.        Placement of Cutting Plane Lines        
-32.        Full Section View        
+28.        Sections of Solids
+29.        Visualization of Section Views
+30.        CUTTING PLANE LINES
+31.        Placement of Cutting Plane Lines
+32.        Full Section View
 33.        Broken-Out Sections
-34.        Parallel Line Development        
+34.        Parallel Line Development
 35.        Radial Line Development
-36.        Isometric Projection        
-37.        Foreshortening        
-38.        Isometric Scale        
-39.        Alternative Isometric Scale",0,1,,0,0,0,1,,
-Building Design & Drawing,,,,,,,,,,,"Building design & drawing notes,quiz,blog and videos for civil 
-engineering.building design & drawing is a technical drawing which 
+36.        Isometric Projection
+37.        Foreshortening
+38.        Isometric Scale
+39.        Alternative Isometric Scale",0,0,0,0,1,0,0,0,0
+Building Design & Drawing,,,,,,,,,,,"Building design & drawing notes,quiz,blog and videos for civil
+engineering.building design & drawing is a technical drawing which
 consist ideas,concepts,planning,construction
-process,proposal before 
-start to developing any building. Architectural drawing or building 
-design & drawing has some construction industry standards which 
-varies on basis of countries.building design & drawing  help to 
-civil engineers , architect to scheduling and budgeting.It cover all 
-aspects of building design and drawing  survey drawings,record 
-drawings,working drawings.House architectural plans can be represented 
-as pictorial form or with diagram it describe full building 
-structure,spaces,dependencies  & materials required. This app is 
-helpful for civil engineers,building architect,House plan consultants 
-& civil engineering students to explore architectural design and 
+process,proposal before
+start to developing any building. Architectural drawing or building
+design & drawing has some construction industry standards which
+varies on basis of countries.building design & drawing  help to
+civil engineers , architect to scheduling and budgeting.It cover all
+aspects of building design and drawing  survey drawings,record
+drawings,working drawings.House architectural plans can be represented
+as pictorial form or with diagram it describe full building
+structure,spaces,dependencies  & materials required. This app is
+helpful for civil engineers,building architect,House plan consultants
+& civil engineering students to explore architectural design and
 drawing skills.
 
 It almost cover important topics with their picture chapter wise which are given below
 
-Chapter 1 Drawing of Building Elements                
+Chapter 1 Drawing of Building Elements
 
-1.        types of footing                
-2.        open foundation                
-3.        raft foundation                
-4.        grillage                
-5.        pile and well foundation                
-6.        Doors and Window                
-7.        lintels and arches                
+1.        types of footing
+2.        open foundation
+3.        raft foundation
+4.        grillage
+5.        pile and well foundation
+6.        Doors and Window
+7.        lintels and arches
 8.        stairs and staircase
 
-Chapter 2 Building Planning                
+Chapter 2 Building Planning
 
-1.        Provisions of National Building Code                
-2.        Building bye-laws                
-3.        FAR terminology        
-        
-Chapter 3 Building Services                
+1.        Provisions of National Building Code
+2.        Building bye-laws
+3.        FAR terminology
 
-1.        Introduction of Building Services like water supply and drainage                
-2.        electrification                
-3.        Building Services                
-4.        ventilation and lightening and staircases                
-5.        fire safety                
-6.        thermal insulation                
+Chapter 3 Building Services
+
+1.        Introduction of Building Services like water supply and drainage
+2.        electrification
+3.        Building Services
+4.        ventilation and lightening and staircases
+5.        fire safety
+6.        thermal insulation
 7.        acoustics of buildings
-        
-Chapter 4 Design and Drawing of Building        
 
-1.        Location drawings and general arrangement drawings                
-2.        Elevations                
-3.        Assembly drawings                
-4.        Component drawings                
-5.        Projections                
+Chapter 4 Design and Drawing of Building
+
+1.        Location drawings and general arrangement drawings
+2.        Elevations
+3.        Assembly drawings
+4.        Component drawings
+5.        Projections
 6.        Working drawings
-        
-Chapter 5 Perspective Drawing        
 
-1.        Perspective Drawing                
-2.        point and two point perspectives                
-3.        energy efficient buildings",0,0,0,0,0,0,1,0,
+Chapter 5 Perspective Drawing
+
+1.        Perspective Drawing
+2.        point and two point perspectives
+3.        energy efficient buildings",0,0,0,0,0,0,1,0,0
 PlatformOnlineTest,,,,,,,,,,," Platform
  Online & Offline Test Centre providing complete solution for online
- & offline preparation for different competitive exams. Our team 
-with The Platform (A unit of Platform Education Centre Pvt. Ltd.) & 
-Rukmini Prakashan who provide authentic and latest Test Series & 
+ & offline preparation for different competitive exams. Our team
+with The Platform (A unit of Platform Education Centre Pvt. Ltd.) &
+Rukmini Prakashan who provide authentic and latest Test Series &
 Study Material for various examination Preparation.
 
 The Institute
  & Publication are run by a highly experienced team of professionals
  who have more than 15 years of teaching and publication experience. Our
- core team comprises of faculty & author from known Institutions, 
-Publications, Senior Member of RRB, Banker and IITian, who guide the 
+ core team comprises of faculty & author from known Institutions,
+Publications, Senior Member of RRB, Banker and IITian, who guide the
 students through the entire selection process.            ",0,0,0,1,0,0,0,0,0
-Super Santa XMAS Story & Games,,,,,,,,,,,"Santa Claus Goes High-Tech in this Interactive Book with Educational 
+Super Santa XMAS Story & Games,,,,,,,,,,,"Santa Claus Goes High-Tech in this Interactive Book with Educational
 Games and Amazing Activities! It’s the Jetsons Meets a Christmas Story -
- a Turbo-Charged Tale with Incredible Graphics! XMAS Holiday Has Never 
+ a Turbo-Charged Tale with Incredible Graphics! XMAS Holiday Has Never
 Been so Awesome - Lasers, Gadgets and a GPS Loaded Sleigh!
 
-The 
-kids this year want gadgets, lasers and robots for Christmas. Super 
+The
+kids this year want gadgets, lasers and robots for Christmas. Super
 Santa Claus must go high-tech and find a special, top secret, laboratory
- where his elves can build these cool toys. Using his GPS, Santa Claus 
-flies to the lab and his elves get busy. In this modern, futuristic 
-Christmas story, Super Santa uses a jet pack and a supersonic sleigh 
-equipped with a rocket thruster to deliver the presents all over the 
-world.  Super Santa blasts them into skyscrapers and down through 
+ where his elves can build these cool toys. Using his GPS, Santa Claus
+flies to the lab and his elves get busy. In this modern, futuristic
+Christmas story, Super Santa uses a jet pack and a supersonic sleigh
+equipped with a rocket thruster to deliver the presents all over the
+world.  Super Santa blasts them into skyscrapers and down through
 chimneys.
 
-It’s an epic Christmas tale your kids will LOVE!  
-Parents will adore this Super Santa story too - it takes the best of a 
-classic Christmas story and adds exciting new elements to the holiday 
+It’s an epic Christmas tale your kids will LOVE!
+Parents will adore this Super Santa story too - it takes the best of a
+classic Christmas story and adds exciting new elements to the holiday
 spirit.  Super Santa is certain to become a XMAS family favorite!
 
 What’s Inside:
@@ -3111,42 +3093,104 @@ Exciting and educational games on each Super Santa Games and Story XMAS app page
 ★  Memorize and Place - A great memory game that relates to the story and sharpens retention
 
 A
- super fun, Super Santa tale loaded with smart, fun activities on each 
-page.  Santa Claus has never seemed so cool - jet packs, rocket 
+ super fun, Super Santa tale loaded with smart, fun activities on each
+page.  Santa Claus has never seemed so cool - jet packs, rocket
 thrusters and all!  A fantastic holiday and Christmas app young children
- will adore!  Packed with traditional Christmas favorites -  and made 
+ will adore!  Packed with traditional Christmas favorites -  and made
 super cool and modern - it’s a fantastic story holiday for all!
 
 Super Santa Games and Story XMAS app Features:
 ★
- Santa’s GPS tracking system takes Santa Claus to Antarctica, the South 
+ Santa’s GPS tracking system takes Santa Claus to Antarctica, the South
 Pole, the secret lab, the elves’ lounge and Santa’s gym!
-★ Call Santa Claus on the phone, dial him up!  
+★ Call Santa Claus on the phone, dial him up!
 ★ “Read it Myself” - Allows you to control the reading yourself
 ★ “Auto Play” - Automatically reads the entire story to you",0,0,0,0,0,0,0,1,0
      Guide to Linux ,,,,,,,,,,Essence Infotech LLP," The
- Linux open source operating system, or Linux OS, is a freely 
+ Linux open source operating system, or Linux OS, is a freely
 distributable, cross-platform operating system based on Unix that can be
- installed on PCs, laptops, net books, mobile and tablet devices, 
+ installed on PCs, laptops, net books, mobile and tablet devices,
 servers, supercomputers and more.
 
-* Linux Terminal is now 
-integrated. This terminal is referenced from original Jack Palevich 
-Terminal Emulator available on play store. It may conflict with other 
-terminals. If it is then user have to remove other terminal emulator 
+* Linux Terminal is now
+integrated. This terminal is referenced from original Jack Palevich
+Terminal Emulator available on play store. It may conflict with other
+terminals. If it is then user have to remove other terminal emulator
 apps.
 
 
 Guide to Linux is a  guide, to learn Linux environment and explore Linux commands and shell script.
-- Works offline also 
+- Works offline also
 - Linux Tutorial.
 - Contains details of all basic and advance commands of Linux.
 - Includes example and syntax.
 - Dedicated module for Shell Script learning.
 
 Keywords:
- Linux Commands, Unix Commands, Unix Shell Script, Linux Shell Script, 
+ Linux Commands, Unix Commands, Unix Shell Script, Linux Shell Script,
 Linux Tutorial, Unix Tutorial, Linux Basics, Linux Shell Types.
 
 Enjoy this guide to Linux.
-Happy learning!            ",,,,,,,,,
+Happy learning!            ",0,1,0,0,0,0,0,0,1
+,,,,,,,,,,,"# Basic Concept of Artificial Intelligence.
+
+# Deduction, Reasoning, Problem Solving
+
+# Knowledge Representation
+# Planning
+# Learning
+# Natural Language Processing (communication)
+# Perception
+# Motion and Manipulation
+# Action selection 
+# Affective computing 
+# AI box 
+# AI-complete 
+# Algorithmic probability 
+# Automated reasoning 
+# Autonomic Computing 
+# Autonomic Networking 
+# Backward chaining 
+# Bayesian network 
+# Bio-inspired computing 
+# Artificial immune systems 
+# Blackboard system 
+# Chatterbot 
+# Combs method 
+# Commonsense reasoning 
+# Computational humor 
+# Computer-assisted proof 
+# Conceptual dependency theory 
+# Darwin machine 
+# Description logic 
+# Frame problem 
+# Game theory 
+# Grammar systems theory 
+# Informatics (academic field) 
+# Intelligent control 
+# Kinect 
+# LIDA (cognitive architecture) 
+# Means-ends analysis 
+# Moravec's paradox 
+# Music and artificial intelligence 
+# Ordered weighted averaging aggregation operator 
+# PEAS – Performance, Environment, Actuators, Sensors
+# Percept (artificial intelligence) 
+# Perceptual Computing 
+# Rule-based system 
+# Self-management (computer science) 
+# Soft computing 
+# Software agent 
+# Intelligent agent / Rational agent 
+# Autonomous agent 
+# Automated planning and scheduling
+# Control system
+# Hierarchical control system
+# Networked control system
+# Distributed artificial intelligence 
+# Multi-agent system 
+# Monitoring and Surveillance Agents
+# Embodied agent 
+# Situated AI
+# Sussman Anomaly 
+# Wetware (brain)",0,1,0,0,0,0,0,0,0
